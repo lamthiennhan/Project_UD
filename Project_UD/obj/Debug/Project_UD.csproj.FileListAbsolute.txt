@@ -1,0 +1,15 @@
+E:\UngDung\Project_UD\Project_UD\bin\Debug\Project_UD.exe.config
+E:\Project_UD\Project_UD\bin\Debug\Project_UD.exe.config
+E:\Project_UD\Project_UD\bin\Debug\Project_UD.exe
+E:\Project_UD\Project_UD\bin\Debug\Project_UD.pdb
+E:\Project_UD\Project_UD\obj\Debug\Project_UD.Properties.Resources.resources
+E:\Project_UD\Project_UD\obj\Debug\Project_UD.csproj.GenerateResource.Cache
+E:\Project_UD\Project_UD\obj\Debug\Project_UD.exe
+E:\Project_UD\Project_UD\obj\Debug\Project_UD.pdb
+E:\Project_UD\Project_UD\bin\Debug\BUS.exe
+E:\Project_UD\Project_UD\bin\Debug\BUS.pdb
+E:\Project_UD\Project_UD\obj\Debug\Project_UD.csprojResolveAssemblyReference.cache
+E:\Project_UD\Project_UD\obj\Debug\Project_UD.GUI_Login.resources
+E:\Project_UD\Project_UD\obj\Debug\Project_UD.GUI_Main.resources
+E:\Project_UD\Project_UD\obj\Debug\Project_UD.GUI_CV.resources
+E:\Project_UD\Project_UD\obj\Debug\Project_UD.GUI_PB.resources

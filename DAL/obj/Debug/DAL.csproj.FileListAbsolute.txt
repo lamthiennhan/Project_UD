@@ -1,0 +1,10 @@
+E:\Project_UD\DAL\bin\Debug\DAL.exe.config
+E:\Project_UD\DAL\bin\Debug\DAL.exe
+E:\Project_UD\DAL\bin\Debug\DAL.pdb
+E:\Project_UD\DAL\bin\Debug\DTO.exe
+E:\Project_UD\DAL\bin\Debug\DTO.pdb
+E:\Project_UD\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Project_UD\DAL\obj\Debug\DAL.Properties.Resources.resources
+E:\Project_UD\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
+E:\Project_UD\DAL\obj\Debug\DAL.exe
+E:\Project_UD\DAL\obj\Debug\DAL.pdb
